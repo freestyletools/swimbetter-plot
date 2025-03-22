@@ -1,0 +1,6 @@
+requests
+plotly
+pandas
+kaleido
+pillow
+svg.py
