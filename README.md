@@ -1,4 +1,4 @@
-Warning, this is a work in progress! More information can be found at [here](https://freestyletools.github.io/)
+Warning, this is a work in progress! More information can be found [here](https://freestyletools.github.io/)
 
 1. Copy `settings.py-dist` to `settings.py` and enter your [EO SwimBETTER smart paddles](https://www.eolab.com/swimbetter) credentials
 
